@@ -1,0 +1,9 @@
+const types = {
+    UPDATE_MEMBER: 'UPDATE_MEMBER',
+    DELETE_MEMBER: 'DELETE_MEMBER',
+    ADD_MEMBER: 'ADD_MEMBER',
+    ADD_ALL_MEMBERS: 'ADD_ALL_MEMBERS',
+    RESET_MEMBERS: 'RESET_MEMBERS',
+};
+
+export default types;

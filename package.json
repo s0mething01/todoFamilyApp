@@ -1,0 +1,79 @@
+{
+  "name": "todoapp",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.11.6",
+    "@testing-library/react": "^11.1.2",
+    "@testing-library/user-event": "^12.2.2",
+    "downshift": "^6.0.6",
+    "firebase": "^8.2.2",
+    "moment": "^2.29.1",
+    "node-sass": "^4.0.0",
+    "react": "^17.0.1",
+    "react-datepicker": "^3.3.0",
+    "react-dom": "^17.0.1",
+    "react-helmet": "^6.1.0",
+    "react-helmet-async": "^1.0.7",
+    "react-images-upload": "^1.2.8",
+    "react-redux": "^7.2.2",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.0",
+    "redux": "^4.0.5",
+    "styled-components": "^5.2.1",
+    "swiper": "^6.3.5",
+    "web-vitals": "^0.2.4"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "eslint": "^7.6.0",
+    "eslint-config-airbnb": "^18.2.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-loader": "^4.0.2",
+    "eslint-plugin-babel": "^5.3.1",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-jsx-a11y": "^6.3.1",
+    "eslint-plugin-react": "^7.20.5",
+    "eslint-plugin-react-hooks": "^4.0.8",
+    "identity-obj-proxy": "^3.0.0",
+    "jest": "^26.2.2",
+    "jest-localstorage-mock": "^2.4.3",
+    "lint-staged": "^10.2.11",
+    "prettier": "^2.0.5",
+    "react-svg-loader": "^3.0.3",
+    "react-test-renderer": "^16.13.1",
+    "redux-devtools": "^3.7.0",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-thunk": "^2.3.0",
+    "stylelint": "^13.6.1",
+    "stylelint-config-recommended": "^3.0.0",
+    "stylelint-config-styled-components": "^0.1.1",
+    "stylelint-processor-styled-components": "^1.10.0",
+    "stylelint-webpack-plugin": "^2.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+<svg id="GoogleButton" xmlns="http://www.w3.org/2000/svg" width="31.626" height="31.626" viewBox="0 0 31.626 31.626">
+  <g id="btn_google_light_normal">
+    <g id="logo_googleg_48dp">
+      <path id="Shape" d="M24.181,10.6a18.18,18.18,0,0,0-.287-3.234H9V13.48h8.51a7.274,7.274,0,0,1-3.155,4.773v3.967h5.111A15.422,15.422,0,0,0,24.181,10.6Z" transform="translate(6.813 5.574)" fill="#4285f4" fill-rule="evenodd"/>
+      <path id="Shape-2" data-name="Shape" d="M15.088,23.519a15.1,15.1,0,0,0,10.465-3.831L20.443,15.72a9.5,9.5,0,0,1-5.355,1.509A9.424,9.424,0,0,1,6.24,10.71H.957v4.1a15.807,15.807,0,0,0,14.131,8.712Z" transform="translate(0.725 8.108)" fill="#34a853" fill-rule="evenodd"/>
+      <path id="Shape-3" data-name="Shape" d="M6.965,15.064a9.349,9.349,0,0,1,0-6.009v-4.1H1.682a15.833,15.833,0,0,0,0,14.2l5.283-4.1Z" transform="translate(0 3.753)" fill="#fbbc05" fill-rule="evenodd"/>
+      <path id="Shape-4" data-name="Shape" d="M15.088,6.289a8.543,8.543,0,0,1,6.045,2.365l4.535-4.535A15.2,15.2,0,0,0,15.088,0,15.807,15.807,0,0,0,.957,8.712l5.283,4.1a9.424,9.424,0,0,1,8.848-6.519Z" transform="translate(0.725 0)" fill="#ea4335" fill-rule="evenodd"/>
+      <path id="Shape-5" data-name="Shape" d="M0,0H31.626V31.626H0Z" fill="none" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

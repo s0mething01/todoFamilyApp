@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="290" height="290" viewBox="0 0 290 290">
+  <g id="logoSquareWhite" transform="translate(-8775 2235)">
+    <rect id="logoSquareWhite-2" data-name="logoSquareWhite" width="290" height="290" rx="12" transform="translate(8775 -2235)" fill="#fff"/>
+    <g id="Group_209" data-name="Group 209" transform="translate(-9 -8)">
+      <g id="Group_200" data-name="Group 200" transform="translate(417.526 -831)">
+        <path id="check-solid" d="M64.175,203.231,2.767,141.823a9.448,9.448,0,0,1,0-13.361L16.128,115.1a9.447,9.447,0,0,1,13.361,0l41.367,41.367,88.6-88.6a9.448,9.448,0,0,1,13.361,0l13.36,13.361a9.448,9.448,0,0,1,0,13.361L77.536,203.232a9.447,9.447,0,0,1-13.361,0Z" transform="translate(8408 -1373.194)" fill="#deeeff"/>
+        <path id="check-solid-2" data-name="check-solid" d="M64.175,203.231,2.767,141.823a9.448,9.448,0,0,1,0-13.361L16.128,115.1a9.447,9.447,0,0,1,13.361,0l41.367,41.367,88.6-88.6a9.448,9.448,0,0,1,13.361,0l13.36,13.361a9.448,9.448,0,0,1,0,13.361L77.536,203.232a9.447,9.447,0,0,1-13.361,0Z" transform="translate(8408 -1391.646)" fill="#c3ddfa"/>
+        <path id="check-solid-3" data-name="check-solid" d="M64.175,203.231,2.767,141.823a9.448,9.448,0,0,1,0-13.361L16.128,115.1a9.447,9.447,0,0,1,13.361,0l41.367,41.367,88.6-88.6a9.448,9.448,0,0,1,13.361,0l13.36,13.361a9.448,9.448,0,0,1,0,13.361L77.536,203.232a9.447,9.447,0,0,1-13.361,0Z" transform="translate(8408 -1410.098)" fill="#057af0"/>
+      </g>
+      <text id="ToDo" transform="translate(8949 -1996) rotate(-45)" fill="#057af0" font-size="41" font-family="Overpass-Black, Overpass" font-weight="800"><tspan x="0" y="0">To</tspan><tspan y="0" fill="#c3ddfa">Do</tspan></text>
+      <text id="ToDo." transform="translate(8949 -1996) rotate(-45)" fill="#057af0" font-size="41" font-family="Overpass-Black, Overpass" font-weight="800"><tspan x="0" y="0">To</tspan><tspan y="0" fill="#c3ddfa">Do.</tspan></text>
+    </g>
+  </g>
+</svg>

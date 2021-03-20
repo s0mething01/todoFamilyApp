@@ -1,0 +1,9 @@
+const types = {
+    UPDATE_AWARD: 'UPDATE_AWARD',
+    REMOVE_AWARD: 'REMOVE_AWARD',
+    ADD_AWARD: 'ADD_AWARD',
+    ADD_ALL_AWARDS: 'ADD_ALL_AWARDS',
+    RESET_AWARDS: 'RESET_AWARDS',
+};
+
+export default types;

@@ -133,7 +133,7 @@ const RegisterForm = ({ page, nextPage, addAllMembers }) => {
                         placeholder="Powtórz to hasło"
                         label="Powtórz hasło"
                     />
-                    <Button onClick={register}>Next</Button>
+                    <Button onClick={register}>Dalej</Button>
                 </div>
             )}
             {page === 2 && (
@@ -149,7 +149,7 @@ const RegisterForm = ({ page, nextPage, addAllMembers }) => {
                         placeholder="Tu wpisz nazwe waszej rodziny"
                         label="Nazwa rodziny"
                     />
-                    <Button onClick={nextPage}>Next</Button>
+                    <Button onClick={nextPage}>Dalej</Button>
                 </div>
             )}
             {page === 3 && (

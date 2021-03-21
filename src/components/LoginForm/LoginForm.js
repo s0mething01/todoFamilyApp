@@ -75,7 +75,7 @@ const LoginForm = ({ page, nextPage, members }) => {
                         placeholder="Tu wpisz hasło"
                         label="Hasło"
                     />
-                    <Button onClick={handleLogin}>Next</Button>
+                    <Button onClick={handleLogin}>Dalej</Button>
                 </div>
             )}
             {page === 2 && (
@@ -99,7 +99,7 @@ const LoginForm = ({ page, nextPage, members }) => {
                             label="PIN"
                         />
                     </div>
-                    <Button onClick={handleLoginMember}>Next</Button>
+                    <Button onClick={handleLoginMember}>Dalej</Button>
                 </div>
             )}
         </>

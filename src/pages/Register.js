@@ -27,6 +27,16 @@ const LoginLink = styled(Link)`
     transform: translateX(50%);
     font-size: 2.2rem;
     color: ${({ theme }) => theme.colors.primary};
+    @media (max-width: 768px) {
+        display: block;
+        position: relative;
+        transform: translateX(0);
+        right: 0;
+        left: 0;
+        width: 100%;
+        margin: 2rem auto 0;
+        text-align: center;
+    }
     span {
         font-weight: ${({ theme }) => theme.font.bold};
         text-decoration: underline;
@@ -47,6 +57,9 @@ const RegisterWrapper = styled.section`
     justify-content: center;
     align-items: center;
     min-height: 100vh;
+    @media (max-width: 768px) {
+        display: block;
+    }
     svg {
         width: 17rem;
         display: block;
@@ -82,9 +95,9 @@ const RegisterWrapper = styled.section`
         @media (max-width: 768px) {
             padding: 6rem;
             width: 100%;
-            height: 100vh;
             overflow: auto;
             max-width: 95%;
+            margin: 0 auto;
             border-radius: 0;
             justify-content: flex-start;
         }
@@ -99,6 +112,7 @@ const RegisterWrapper = styled.section`
         @media (max-width: 768px) {
             font-size: 3.5rem;
             margin-bottom: 1rem;
+            margin-top: 2rem;
         }
     }
     p {
@@ -108,6 +122,7 @@ const RegisterWrapper = styled.section`
         margin-bottom: 5rem;
         @media (max-width: 768px) {
             font-size: 2.2rem;
+            margin-bottom: 2rem;
         }
     }
 `;

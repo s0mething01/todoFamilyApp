@@ -46,9 +46,9 @@ const TopNav = ({ notifications, resetTasks, resetAwards, resetMembers, members 
             </Link>
             {currentAccount.role === 'dziecko' && (
                 <div className="withtext">
-                    {points && (
+                    {points >= 0 && (
                         <span>
-                            {points} <span className="points">Points</span>
+                            {points} <span className="points">Punktów</span>
                         </span>
                     )}
                     <CoinsIcon />

@@ -104,7 +104,7 @@ const RegisterForm = ({ page, nextPage, addAllMembers }) => {
             {page === 1 && (
                 <div>
                     <Heading>Zarejestruj swoją rodzinę</Heading>
-                    <p>Stwórz konto dla swojej rodziny.</p>
+                    <p>I ciesz się światem wykonanych obowiązków domowych!</p>
                     <ErrorBox errors={errors} />
                     <Input
                         value={email}

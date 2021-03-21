@@ -177,7 +177,7 @@ const TaskButton = ({ accountType, owner, childs, task, notifications, reduxTask
 
             <Modal hideModal={hideModal} isVisible={isModalVisible}>
                 <Heading>Edytuj zadanie</Heading>
-                <p>and dive into the world of done house chores.</p>
+                <p>I ciesz się światem wykonanych obowiązków domowych!</p>
                 <form action="">
                     <ErrorBox errors={errors} />
                     <Input

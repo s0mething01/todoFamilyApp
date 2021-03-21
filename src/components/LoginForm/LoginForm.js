@@ -55,7 +55,7 @@ const LoginForm = ({ page, nextPage, members }) => {
             {page === 1 && (
                 <div>
                     <Heading>Zaloguj się </Heading>
-                    <p>and dive into the world of done house chores.</p>
+                    <p>I ciesz się światem wykonanych obowiązków domowych!</p>
                     <ErrorBox errors={userErrors} />
                     <Input
                         value={email}

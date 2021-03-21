@@ -119,7 +119,7 @@ const Award = ({ award, reduxAwardUpdate, reduxAwardRemove, reduxNotificationAdd
                 </Alert>
                 <Modal hideModal={hideModal} isVisible={isModalVisible}>
                     <Heading>Edytuj nagrodę</Heading>
-                    <p>and dive into the world of done house chores.</p>
+                    <p>I ciesz się światem wykonanych obowiązków domowych!</p>
                     <form action="">
                         <ErrorBox errors={errors} />
                         <Input

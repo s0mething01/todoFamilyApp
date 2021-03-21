@@ -86,7 +86,7 @@ const Members = ({ members, add }) => {
 
             <Modal hideModal={hideModal} isVisible={isModalVisible}>
                 <Heading>Dodaj członka rodziny</Heading>
-                <p>and dive into the world of done house chores.</p>
+                <p>I ciesz się światem wykonanych obowiązków domowych!</p>
                 <form action="">
                     <ErrorBox errors={errors} />
                     <Input
